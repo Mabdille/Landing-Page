@@ -34,3 +34,10 @@ h2 {
     }
 }
 
+body {
+    background-repeat:no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
